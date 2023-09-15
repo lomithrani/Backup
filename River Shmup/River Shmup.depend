@@ -1,0 +1,274 @@
+# depslib dependency file v1.0
+1293217642 source:c:\documents and settings\olga gentil\bureau\river shmup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1294311435 source:c:\documents and settings\olga gentil\bureau\river shmup\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1293220122 source:c:\documents and settings\olga gentil\bureau\river shmup\fonctions_b.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1293217304 source:c:\documents and settings\olga gentil\bureau\river shmup\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1293188260 c:\documents and settings\olga gentil\bureau\river shmup\graph.h
+
+1292423777 c:\documents and settings\olga gentil\bureau\river shmup\menu.h
+
+1293217492 c:\documents and settings\olga gentil\bureau\river shmup\fonctions.h
+
+1293217492 c:\documents and settings\olga gentil\bureau\river shmup\fonctions_b.h
+
+1292419251 c:\documents and settings\olga gentil\bureau\river shmup\boss.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1292419491 c:\documents and settings\olga gentil\bureau\river shmup\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1292419376 c:\documents and settings\olga gentil\bureau\river shmup\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1292419251 c:\documents and settings\olga gentil\bureau\river shmup\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1292419251 c:\documents and settings\olga gentil\bureau\river shmup\fonctions_b.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1293134156 source:c:\documents and settings\olga gentil\bureau\river shmup\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1294145589 source:c:\documents and settings\olga gentil\bureau\river shmup\boss.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+
+1293217597 c:\documents and settings\olga gentil\bureau\river shmup\boss.h
+
+1294311435 source:c:\documents and settings\olga gentil\mes documents\dropbox\projet info\river shmup\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1293217597 c:\documents and settings\olga gentil\mes documents\dropbox\projet info\river shmup\boss.h
+
+1293188260 c:\documents and settings\olga gentil\mes documents\dropbox\projet info\river shmup\graph.h
+
+1293217492 c:\documents and settings\olga gentil\mes documents\dropbox\projet info\river shmup\fonctions.h
+
+1293217492 c:\documents and settings\olga gentil\mes documents\dropbox\projet info\river shmup\fonctions_b.h
+
+1292423777 c:\documents and settings\olga gentil\mes documents\dropbox\projet info\river shmup\menu.h
+
+1293220122 source:c:\documents and settings\olga gentil\mes documents\dropbox\projet info\river shmup\fonctions_b.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1293217304 source:c:\documents and settings\olga gentil\mes documents\dropbox\projet info\river shmup\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1293217642 source:c:\documents and settings\olga gentil\mes documents\dropbox\projet info\river shmup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1293134156 source:c:\documents and settings\olga gentil\mes documents\dropbox\projet info\river shmup\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1294145589 source:c:\documents and settings\olga gentil\mes documents\dropbox\projet info\river shmup\boss.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+
+1294307835 source:c:\users\loukoum\dropbox\projet info\river shmup\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1293213997 c:\users\loukoum\dropbox\projet info\river shmup\boss.h
+
+1293184660 c:\users\loukoum\dropbox\projet info\river shmup\graph.h
+
+1293213892 c:\users\loukoum\dropbox\projet info\river shmup\fonctions.h
+
+1293213892 c:\users\loukoum\dropbox\projet info\river shmup\fonctions_b.h
+
+1292420177 c:\users\loukoum\dropbox\projet info\river shmup\menu.h
+
+1293216522 source:c:\users\loukoum\dropbox\projet info\river shmup\fonctions_b.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1293217304 source:c:\users\loukoum\dropbox\projet info\river shmup\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1293214042 source:c:\users\loukoum\dropbox\projet info\river shmup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1293130556 source:c:\users\loukoum\dropbox\projet info\river shmup\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+	"boss.h"
+
+1294141989 source:c:\users\loukoum\dropbox\projet info\river shmup\boss.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"boss.h"
+	"graph.h"
+	"fonctions.h"
+	"fonctions_B.h"
+	"menu.h"
+

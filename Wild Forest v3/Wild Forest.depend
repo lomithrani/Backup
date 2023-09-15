@@ -1,0 +1,328 @@
+# depslib dependency file v1.0
+1303673697 source:c:\users\louis\dropbox\projet info\wild forest v3\graph.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303724030 c:\users\louis\dropbox\projet info\wild forest v3\struct.h
+
+1303723992 c:\users\louis\dropbox\projet info\wild forest v3\acteur.h
+
+1303661136 c:\users\louis\dropbox\projet info\wild forest v3\graph.h
+
+1303717132 c:\users\louis\dropbox\projet info\wild forest v3\perso.h
+
+1303657679 c:\users\louis\dropbox\projet info\wild forest v3\menu.h
+
+1304350585 source:c:\users\louis\dropbox\projet info\wild forest v3\main.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+	"sauvegarde.h"
+
+1303673518 source:c:\users\louis\dropbox\projet info\wild forest v3\math2.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303673518 c:\users\louis\dropbox\projet info\wild forest v3\math2.h
+
+1304350590 source:c:\users\louis\dropbox\projet info\wild forest v3\menu.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"sauvegarde.h"
+	"menu.h"
+
+1303727121 source:c:\users\louis\dropbox\projet info\wild forest v3\perso.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303727515 source:c:\users\louis\dropbox\projet info\wild forest v3\acteur.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303673697 source:c:\users\maxou\dropbox\projet info\wild forest v3\graph.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303724030 c:\users\maxou\dropbox\projet info\wild forest v3\struct.h
+
+1303723992 c:\users\maxou\dropbox\projet info\wild forest v3\acteur.h
+
+1303661136 c:\users\maxou\dropbox\projet info\wild forest v3\graph.h
+
+1303717132 c:\users\maxou\dropbox\projet info\wild forest v3\perso.h
+
+1303657679 c:\users\maxou\dropbox\projet info\wild forest v3\menu.h
+
+1303724747 source:c:\users\maxou\dropbox\projet info\wild forest v3\main.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303673518 source:c:\users\maxou\dropbox\projet info\wild forest v3\math2.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303673518 c:\users\maxou\dropbox\projet info\wild forest v3\math2.h
+
+1303724164 source:c:\users\maxou\dropbox\projet info\wild forest v3\menu.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303723952 source:c:\users\maxou\dropbox\projet info\wild forest v3\acteur.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303724166 source:c:\users\maxou\dropbox\projet info\wild forest v3\perso.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303726643 source:c:\users\louis\dropbox\projet info\wild forest v3\sauvegarde.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+	"sauvegarde.h"
+
+1303725738 c:\users\louis\dropbox\projet info\wild forest v3\sauvegarde.c
+
+1303726420 c:\users\louis\dropbox\projet info\wild forest v3\sauvegarde.h
+
+1303673697 source:c:\users\william\dropbox\projet info\wild forest v3\graph.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303724030 c:\users\william\dropbox\projet info\wild forest v3\struct.h
+
+1303723992 c:\users\william\dropbox\projet info\wild forest v3\acteur.h
+
+1303661136 c:\users\william\dropbox\projet info\wild forest v3\graph.h
+
+1303717132 c:\users\william\dropbox\projet info\wild forest v3\perso.h
+
+1303657679 c:\users\william\dropbox\projet info\wild forest v3\menu.h
+
+1304350585 source:c:\users\william\dropbox\projet info\wild forest v3\main.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+	"sauvegarde.h"
+
+1303726420 c:\users\william\dropbox\projet info\wild forest v3\sauvegarde.h
+
+1303673518 source:c:\users\william\dropbox\projet info\wild forest v3\math2.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303673518 c:\users\william\dropbox\projet info\wild forest v3\math2.h
+
+1304350590 source:c:\users\william\dropbox\projet info\wild forest v3\menu.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"sauvegarde.h"
+	"menu.h"
+
+1303727121 source:c:\users\william\dropbox\projet info\wild forest v3\perso.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303727515 source:c:\users\william\dropbox\projet info\wild forest v3\acteur.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303673697 source:c:\users\loukoum\dropbox\projet info\wild forest v3\graph.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303724030 c:\users\loukoum\dropbox\projet info\wild forest v3\struct.h
+
+1303723992 c:\users\loukoum\dropbox\projet info\wild forest v3\acteur.h
+
+1303661136 c:\users\loukoum\dropbox\projet info\wild forest v3\graph.h
+
+1303717132 c:\users\loukoum\dropbox\projet info\wild forest v3\perso.h
+
+1303657679 c:\users\loukoum\dropbox\projet info\wild forest v3\menu.h
+
+1304350585 source:c:\users\loukoum\dropbox\projet info\wild forest v3\main.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+	"sauvegarde.h"
+
+1303726420 c:\users\loukoum\dropbox\projet info\wild forest v3\sauvegarde.h
+
+1303673518 source:c:\users\loukoum\dropbox\projet info\wild forest v3\math2.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303673518 c:\users\loukoum\dropbox\projet info\wild forest v3\math2.h
+
+1304350590 source:c:\users\loukoum\dropbox\projet info\wild forest v3\menu.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"sauvegarde.h"
+	"menu.h"
+
+1303727121 source:c:\users\loukoum\dropbox\projet info\wild forest v3\perso.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+
+1303727515 source:c:\users\loukoum\dropbox\projet info\wild forest v3\acteur.c
+	<math.h>
+	<allegro.h>
+	<time.h>
+	"struct.h"
+	"math2.h"
+	"acteur.h"
+	"graph.h"
+	"perso.h"
+	"menu.h"
+

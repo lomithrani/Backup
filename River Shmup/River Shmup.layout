@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="boss.c" open="1" top="0" tabpos="7">
+		<Cursor position="4600" topLine="937" />
+	</File>
+	<File name="boss.h" open="1" top="0" tabpos="13">
+		<Cursor position="244" topLine="0" />
+	</File>
+	<File name="fonctions.c" open="1" top="0" tabpos="9">
+		<Cursor position="24487" topLine="832" />
+	</File>
+	<File name="fonctions.h" open="1" top="0" tabpos="12">
+		<Cursor position="41" topLine="0" />
+	</File>
+	<File name="fonctions_B.c" open="1" top="0" tabpos="8">
+		<Cursor position="6566" topLine="174" />
+	</File>
+	<File name="fonctions_B.h" open="1" top="0" tabpos="14">
+		<Cursor position="9" topLine="0" />
+	</File>
+	<File name="graph.c" open="1" top="0" tabpos="11">
+		<Cursor position="15716" topLine="368" />
+	</File>
+	<File name="graph.h" open="1" top="0" tabpos="15">
+		<Cursor position="19" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="6">
+		<Cursor position="1452" topLine="0" />
+	</File>
+	<File name="menu.c" open="1" top="0" tabpos="10">
+		<Cursor position="3926" topLine="88" />
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="16">
+		<Cursor position="15" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
